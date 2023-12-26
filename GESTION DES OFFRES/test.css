@@ -1,0 +1,23 @@
+body{
+    background-color: brown;
+}
+p{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#button:hover{
+    background-color: chartreuse;
+    color: white;
+    border: bold;
+}
+form{
+    align-items: center;
+}
+
+#a:hover{
+    align-items: center;
+    background-color: rgb(11, 17, 97);
+    color: white;
+}
+
